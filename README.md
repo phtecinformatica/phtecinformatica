@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/phtecinformatica">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phtecinformatica&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtecinformatica&layout=compact&langs_count=6&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phtecinformatica&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtecinformatica&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
     
 <div style="display: inline_block"><br>
